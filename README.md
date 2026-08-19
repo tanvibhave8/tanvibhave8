@@ -40,3 +40,16 @@
 <p>
 Check out my repositories below to explore the projects I've built while learning and improving my skills. 👇
 </p>
+
+<!-- GitHub Stats -->
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvibhave8&show_icons=true&theme=default&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvibhave8&layout=compact&theme=default&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvibhave8&theme=default&hide_border=true"/>
+</p>
